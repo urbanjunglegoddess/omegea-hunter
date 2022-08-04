@@ -1,0 +1,122 @@
+html{
+    color:black;
+}
+/*containers*/
+header{
+  color:black;
+  background:#AD56C7;
+ font-family: cursive;
+ font-size: large;
+ margin-top:10%;
+ margin-bottom: auto;
+ text-align:center;
+}
+body{
+  color:#F7F7F9;
+  font-family:sans-serif;  
+  font-size:18px; 
+  margin: 0px 50px;
+  padding:20px 0px;
+  text-align:center; 
+}
+footer{
+  color:#D2763E;
+  background:black;
+  font-family:monospace;
+  font-size:16px;
+  height:min-content;
+  margin-top: 25px;
+  padding-left: 3em;
+  text-align:right;
+}
+section{
+  color:#C8906F;
+}
+div{
+  color: beige;
+}
+
+/*headings*/
+h1{ 
+  color: #dba11c;
+  
+}
+
+h2{
+  color:white;
+  background-color:#F7F7F9;
+}
+h3{
+  color:black;
+  
+}
+
+h4{
+    color:#392033;
+}
+
+h5{
+    color:black;
+}
+
+h6{
+    color:black;
+}
+
+/*paragraph*/
+p{
+    color:black;
+}
+
+
+
+/*lists*/
+ul{
+    color:black;
+}
+
+li{
+    color:black;
+}
+
+ol{
+    color:black;
+}
+
+
+/*breaks*/
+hr{
+    color:black;
+}
+
+
+/*quotes*/
+q {
+  display: inline;
+}
+
+q:before {
+  content: open-quote;
+}
+
+font-size,
+  }
+/* Links */
+
+a{
+    color:orangered;
+}
+
+a:link    { color:  hsl(120, 100%, 25%);}
+a:visited { color: hsl(120, 100%, 5%); }
+a:hover   { color: hsl(120, 100%, 35%); }
+a:active  { color: hsl(120, 100%, 15%); }
+
+
+
+
+
+
+
+
+
