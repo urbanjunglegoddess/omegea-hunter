@@ -38,7 +38,7 @@ div{
 
 /*headings*/
 h1{ 
-  color: #dba11c;
+  color: #17181d;
   
 }
 
@@ -66,6 +66,7 @@ h6{
 /*paragraph*/
 p{
     color:black;
+ 
 }
 
 
@@ -99,7 +100,7 @@ hr{
 /*quotes*/
 q {
   display: inline;
-}
+} 
 
 q:before {
   content: open-quote;
@@ -118,7 +119,9 @@ a:visited { color: #548c27; }
 a:hover   { color: #2f195f; }
 a:active  { color: #dddad2; }
 
-
+.omegea{
+  
+}
 
 
 
