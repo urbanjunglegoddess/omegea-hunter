@@ -43,11 +43,11 @@ h1{
 }
 
 h2{
-  color:#dba11c;
+  color:#2f195f;
 
 }
 h3{
-  color:#392033;
+  color:#cc912d;
   
 }
 
@@ -109,23 +109,12 @@ q:before {
 /* Links */
 
 a{
-    color:orangered;
+    color:#825965;
     text-align:center;
 
 }
 
-a:link    { color:  #cc5803;}
+a:link   
 a:visited { color: #548c27; }
 a:hover   { color: #2f195f; }
 a:active  { color: #dddad2; }
-
-.omegea{
-  
-}
-
-
-
-
-
-
-
